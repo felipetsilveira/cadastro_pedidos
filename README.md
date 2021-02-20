@@ -1,4 +1,4 @@
-# Olá, agradeço desde já à equipe pela atenção. tentei utilizar o máximo das tecnologias recomendadas ( Express, Axios, MongoDB ), mas para agilizar o desenvolvimento, por estar mais familiarizado, acabei por usar o React no front.
+# Olá, agradeço desde já à equipe pela atenção. Tentei utilizar o máximo das tecnologias recomendadas ( Express, Axios, MongoDB ), mas para agilizar o desenvolvimento, por estar mais familiarizado, acabei por usar o React no front.
 
 # Acredito que o projeto já esteja modularizado, bastando rodar o "npm i" para instalar as dependências e depois o npm start para back e front-end
 
