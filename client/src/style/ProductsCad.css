@@ -1,0 +1,22 @@
+.form-criar-prod {
+    background-color: #fff;
+    font-size: 1.0em;
+    max-width: 450px;
+    margin: 0 auto;
+    padding: 5px;
+    border: 2px solid #ffff00;
+    border-radius: 5px;
+}
+
+.input {
+    font-size: 1.1em;
+}
+
+textarea {
+    margin: 10px;
+}
+
+.label-textarea {
+    position: relative;
+    top: -22px
+}
