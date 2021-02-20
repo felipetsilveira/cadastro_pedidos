@@ -1,0 +1,13 @@
+.order-form {
+    background-color: #fff;
+    max-width: 450px;
+    margin: 10px auto;
+    padding: 20px;
+    font-size: 1em;
+    border-radius: 5px;
+    border: 2px solid #ffff00;
+}
+
+.input {
+    font-size: 1.1em;
+}
